@@ -40,13 +40,13 @@ Using PIP via Github
 
 .. code:: bash
 
-    pip install git+git://github.com/seatgeek/fuzzywuzzy.git@0.17.0#egg=fuzzywuzzy
+    pip install git+git://github.com/seatgeek/fuzzywuzzy.git@0.18.0#egg=fuzzywuzzy
 
 Adding to your ``requirements.txt`` file (run ``pip install -r requirements.txt`` afterwards)
 
 .. code:: bash
 
-    git+ssh://git@github.com/seatgeek/fuzzywuzzy.git@0.17.0#egg=fuzzywuzzy
+    git+ssh://git@github.com/seatgeek/fuzzywuzzy.git@0.18.0#egg=fuzzywuzzy
     
 Manually via GIT
 
@@ -136,6 +136,6 @@ FuzzyWuzzy is being ported to other languages too! Here are a few ports we know 
 -  C++: `Tmplt/fuzzywuzzy <https://github.com/Tmplt/fuzzywuzzy>`_
 -  C#: `fuzzysharp (.Net port) <https://github.com/BoomTownRoi/BoomTown.FuzzySharp>`_
 -  Go: `go-fuzzywuzz (Go port) <https://github.com/paul-mannino/go-fuzzywuzzy>`_
-
-
-
+-  Free Pascal: `FuzzyWuzzy.pas (Free Pascal port) <https://github.com/DavidMoraisFerreira/FuzzyWuzzy.pas>`_
+-  Kotlin multiplatform: `FuzzyWuzzy-Kotlin <https://github.com/willowtreeapps/fuzzywuzzy-kotlin>`_
+-  R: `fuzzywuzzyR (R port) <https://github.com/mlampros/fuzzywuzzyR>`_
